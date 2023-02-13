@@ -1,4 +1,12 @@
-
+/*
+SECTION 1 
+GROUP MEMBERS           ID No.
+1.JIBRIL ARBICHO        RU2101/13			
+2.BEKALUU ENDRIAS	RU2501/13			
+3.YOHANNES DEREJE	RU3566/13			
+4.YARED BIRIHANU	RU2877/13			
+5.SARON HAILEMICHAEL	RU3638/13			
+*/
 package CriminalInformationSystem;
 import java.util.Scanner;
 import java.util.ArrayList;
